@@ -498,6 +498,9 @@ iframe {
 .credits .btn {
   margin-bottom: 15px;
 }
+.vertical-spacer {
+  margin-top: 20%;
+}
 /* ======= Footer ======= */
 .footer {
   background: #32383e;
